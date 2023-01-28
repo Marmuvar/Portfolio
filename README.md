@@ -39,7 +39,7 @@ A summary of projects completed in support of my Master in Data Science and Anal
 
 ---
 <a name="CompPredict"/></a>
-###[CompPredict: Supervised learning models predicting pharmaceutical competition](https://github.com/Marmuvar/CompPredict)
+### [CompPredict: Supervised learning models predicting pharmaceutical competition](https://github.com/Marmuvar/CompPredict)
 
 **`CompPredict`** determines potential for generic pharmaceutical products entering the market before brand product patent expiration.  Predictors are drawn from patent lifespan, dosage forms, product ingredients, and patent category.
 
@@ -47,28 +47,28 @@ A summary of projects completed in support of my Master in Data Science and Anal
 
 ## Class Projects
 <a name="MoveClass"/></a>
-###[MoveClass: Neural network classifying motion from time domain sensor information](https://github.com/Marmuvar/MoveClass)
+### [MoveClass: Neural network classifying motion from time domain sensor information](https://github.com/Marmuvar/MoveClass)
 
 **`MoveClass`** designs a deep learning neural network incorporating LSTM layer to categorize sensor data collected over 60 seconds of activity as a specific motion category.
 
 ---
 <a name="NoRats"/></a>
-###[NoRats: Predict Chicago restaurant inspection failures from geospatial data and past observations](https://github.com/Marmuvar/NoRats)
+### [NoRats: Predict Chicago restaurant inspection failures from geospatial data and past observations](https://github.com/Marmuvar/NoRats)
 
 **`NoRats`** combines demographic and restaurant health inspection data with spatial maps of Chicago neighborhoods and restaurant locations.  Textural analysis performed on citations further isolates specific concerns.  A decision tree classifier is used to predict characteristics of restaurants having subsequent serious violations.
 
 ---
 <a name="HotWater"/></a>
-###[HotWater: Impact of climate change on Cincinnati wastewater remediation](https://github.com/Marmuvar/HotWater)
+### [HotWater: Impact of climate change on Cincinnati wastewater remediation](https://github.com/Marmuvar/HotWater)
 
 **`HotWater`** performs regression and graphical analysis on 60 years of Cincinnati climate data.  The impact of climate change is presented in terms of its near and long term impact to the ongoing waste water remediation project mandated by the EPA.
 
 ---
 <a name="PharmDash"/></a>
-###[PharmDash: Shiny dashboard for pharmaceutical equivalents and manufacturers](https://github.com/Marmuvar/PharmDash)
+### [PharmDash: Shiny dashboard for pharmaceutical equivalents and manufacturers](https://github.com/Marmuvar/PharmDash)
 
 **`PharmDash`** provides an interactive dashboard for viewing generic pharmaceutical companies and products relative to brand product expiration dates.  It provides a relevant tool for understanding product mix and entry time in the industry.  
-
+  
 ---
 
 
