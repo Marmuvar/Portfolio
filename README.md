@@ -31,6 +31,7 @@ A summary of projects completed in support of my Master in Data Science and Anal
 ### [PharmView: Evaluate productivity among pharmaceutical companies](https://github.com/Marmuvar/PharmView)
 
 **`PharmView`** analyzes brand and generic pharmaceutical companies based on number of products, patents, and first-to-file generic opportunities.
+
 ---
 <a name="PatClass"/></a>
 ### [PatClass: Group patent codes based on textural similarity](https://github.com/Marmuvar/PatClass)
