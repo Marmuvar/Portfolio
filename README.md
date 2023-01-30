@@ -1,5 +1,4 @@
 ## Data Science Portfolio
-130 update
 
 A summary of projects completed in support of my Master in Data Science and Analytic Storytelling degree
 
