@@ -34,12 +34,6 @@ A summary of projects completed in support of my Master in Data Science and Anal
 ---
 
 ## Class Projects
-<a name="MoveClass"/></a>
-### [MoveClass: Neural network classifying motion from time domain sensor information](https://github.com/Marmuvar/MoveClass)
-
-**`MoveClass`** designs a deep learning neural network incorporating LSTM layer to categorize sensor data collected over 60 seconds of activity as a specific motion category.
-
----
 
 <a name="PharmDash"/></a>
 ### [PharmDash: Shiny dashboard for pharmaceutical equivalents and manufacturers](https://github.com/Marmuvar/PharmDash)
